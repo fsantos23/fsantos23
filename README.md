@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @fsantos23
+- 👀 I’m interested in Software development 
+- 🌱 I’m currently learning C/C++, JavaScript, HTML and CSS
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me francisco.santos.faria.05@gmail.com
