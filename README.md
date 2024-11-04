@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @fsantos23
-- 👀 I’m interested in Ai/machine learning, software engineering and software development
+- 👀 I’m interested in Ai/machine learning, software engineering and cibersecurity
 - 🌱 I’m currently learning C/C++, Python
 - 📫 How to reach me francisco.santos.faria.05@gmail.com fsantos2@student.42.fr
