@@ -53,5 +53,5 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fsantos23&layout=compact&theme=dark)
 
 ## 🌐 Connect With Me
-- [LinkedIn]((https://www.linkedin.com/in/francisco-faria-25531b262/))
+- [LinkedIn](https://www.linkedin.com/in/francisco-faria-25531b262/)
 - [GitHub](https://github.com/fsantos23)
