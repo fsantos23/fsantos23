@@ -1,7 +1,7 @@
 # 👋 Hi, I'm @fsantos23
 
 ## 👨‍💻 About Me
-- 🎯 Interested in AI/machine learning, software engineering and cybersecurity
+- 🎯 Interested in Cybersecurity, AI/machine learning and software engineering
 - 🌱 Currently learning C/C++, Python, Node.js, JavaScript
 - 📫 Reach me: [francisco.santos.faria.05@gmail.com](mailto:francisco.santos.faria.05@gmail.com) [fsantos2@student.42.fr](mailto:fsantos2@student.42.fr)
 
@@ -28,19 +28,23 @@
 | [Cub3d](./cub3d) | C | ✅ | 3D game using raycasting |
 | [CPP Modules](./cpp_modules) | C++ | ✅ | OOP and C++ fundamentals |
 | [IRC](./ft_irc) | C++ | ✅ | IRC server implementation |
+| [Inception](./inception) | Docker | 🔄 | Docker infrastructure |
+| [Transcendence](./transcendence) | TypeScript/NestJS | 🔄 | Real-time multiplayer Pong |
 
 ### 💻 Language Distribution
 - C: 9 projects
 - C++: 2 projects
-- Node.js/JavaScript: Personal projects
+- Docker: 1 project
+- Node.js/JavaScript: 1 project
 
 ### 🔍 Project Categories
 - **System Programming**: Pipex, Minishell
 - **Algorithms**: Push_swap, Philosophers
 - **Graphics**: So_long, Cub3d
-- **Network Programming**: IRC
+- **Network Programming**: IRC, Transcendence
 - **Object-Oriented**: CPP Modules
 - **Library Implementation**: Libft, ft_printf, get_next_line
+- **DevOps**: Inception
 
 ## 📊 GitHub Stats
 
@@ -49,5 +53,5 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fsantos23&layout=compact&theme=dark)
 
 ## 🌐 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/francisco-faria-25531b262/)
+- [LinkedIn]((https://www.linkedin.com/in/francisco-faria-25531b262/))
 - [GitHub](https://github.com/fsantos23)
