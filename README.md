@@ -17,19 +17,19 @@
 ### 🌟 Common Core
 | Project | Language | Status | Description |
 |---------|----------|--------|-------------|
-| [Libft](./libft) | C | ✅ | Custom C library |
-| [ft_printf](./ft_printf) | C | ✅ | Printf implementation |
-| [get_next_line](./get_next_line) | C | ✅ | File reading function |
-| [Push_swap](./push_swap) | C | ✅ | Stack sorting algorithm |
-| [So_long](./so_long) | C | ✅ | 2D game development |
-| [Pipex](./pipex) | C | ✅ | Unix pipe simulation |
-| [Philosophers](./philosophers) | C | ✅ | Threading and synchronization |
-| [Minishell](./minishell) | C | ✅ | Shell implementation |
-| [Cub3d](./cub3d) | C | ✅ | 3D game using raycasting |
-| [CPP Modules](./cpp_modules) | C++ | ✅ | OOP and C++ fundamentals |
-| [IRC](./ft_irc) | C++ | ✅ | IRC server implementation |
-| [Inception](./inception) | Docker | 🔄 | Docker infrastructure |
-| [Transcendence](./transcendence) | TypeScript/NestJS | 🔄 | Real-time multiplayer Pong |
+| [Libft](./repositories/libft) | C | ✅ | Custom C library |
+| [ft_printf](./repositories/ft_printf) | C | ✅ | Printf implementation |
+| [get_next_line](./repositories/get_next_line) | C | ✅ | File reading function |
+| [Push_swap](./repositories/push_swap) | C | ✅ | Stack sorting algorithm |
+| [So_long](./repositories/so_long) | C | ✅ | 2D game development |
+| [Pipex](./repositories/pipex) | C | ✅ | Unix pipe simulation |
+| [Philosophers](./repositories/philosophers) | C | ✅ | Threading and synchronization |
+| [Minishell](./repositories/minishell) | C | ✅ | Shell implementation |
+| [Cub3d](./repositories/cub3d) | C | ✅ | 3D game using raycasting |
+| [CPP Modules](./repositories/cpp_modules) | C++ | ✅ | OOP and C++ fundamentals |
+| [IRC](./repositories/ft_irc) | C++ | ✅ | IRC server implementation |
+| [Inception](./repositories/inception) | Docker | 🔄 | Docker infrastructure |
+| [Transcendence](./repositories/transcendence) | JavaScript/NodeJs | 🔄 | Real-time multiplayer Pong |
 
 ### 💻 Language Distribution
 - C: 9 projects
