@@ -17,19 +17,19 @@
 ### 🌟 Common Core
 | Project | Language | Status | Description |
 |---------|----------|--------|-------------|
-| [Libft](./libft) | C | ✅ | Custom C library |
-| [ft_printf](./ft_printf) | C | ✅ | Printf implementation |
-| [get_next_line](./get_next_line) | C | ✅ | File reading function |
-| [Push_swap](./push_swap) | C | ✅ | Stack sorting algorithm |
-| [So_long](./so_long) | C | ✅ | 2D game development |
-| [Pipex](./pipex) | C | ✅ | Unix pipe simulation |
-| [Philosophers](./philosophers) | C | ✅ | Threading and synchronization |
-| [Minishell](./minishell) | C | ✅ | Shell implementation |
-| [Cub3d](./cub3d) | C | ✅ | 3D game using raycasting |
-| [CPP Modules](./cpp_modules) | C++ | ✅ | OOP and C++ fundamentals |
-| [IRC](./ft_irc) | C++ | ✅ | IRC server implementation |
-| [Inception](./inception) | Docker | 🔄 | Docker infrastructure |
-| [Transcendence](./transcendence) | JavaScript/NodeJs | 🔄 | Real-time multiplayer Pong |
+| [Libft](https://github.com/fsantos23/libft) | C | ✅ | Custom C library |
+| [ft_printf](https://github.com/fsantos23/printf) | C | ✅ | Printf implementation |
+| [get_next_line](https://github.com/fsantos23/get_next_line) | C | ✅ | File reading function |
+| [Push_swap](https://github.com/fsantos23/push_swap) | C | ✅ | Stack sorting algorithm |
+| [So_long](https://github.com/fsantos23/so_long) | C | ✅ | 2D game development |
+| [Pipex](https://github.com/fsantos23/pipex) | C | ✅ | Unix pipe simulation |
+| [Philosophers](https://github.com/fsantos23/philosophers) | C | ✅ | Threading and synchronization |
+| [Minishell](https://github.com/fsantos23/minishell) | C | ✅ | Shell implementation |
+| [Cub3d](https://github.com/fsantos23/cub3d) | C | ✅ | 3D game using raycasting |
+| [CPP Modules](https://github.com/fsantos23/cpp_modules) | C++ | ✅ | OOP and C++ fundamentals |
+| [IRC](https://github.com/fsantos23/ft_irc) | C++ | ✅ | IRC server implementation |
+| [Inception](https://github.com/fsantos23/inception) | Docker | 🔄 | Docker infrastructure |
+| [Transcendence](https://github.com/fsantos23/transcendence) | JavaScript/NodeJs | 🔄 | Real-time multiplayer Pong |
 
 ### 💻 Language Distribution
 - C: 9 projects
