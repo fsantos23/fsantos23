@@ -1,6 +1,7 @@
 # 👋 Hi, I'm @fsantos23
 
 ## 👨‍💻 About Me
+- Currently working at 42 Lisbon as IT Developer
 - 🎯 Interested in software engineering, full-stack developer, and backend developer
 - 🌱 Currently learning Python, Django, C/C++, JavaScript
 - 📫 Reach me: [francisco.santos.faria.05@gmail.com](mailto:francisco.santos.faria.05@gmail.com) [fsantos2@student.42.fr](mailto:fsantos2@student.42.fr)
