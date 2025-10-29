@@ -29,7 +29,7 @@
 | [CPP Modules](https://github.com/fsantos23/cpp_modules) | C++ | ✅ | OOP and C++ fundamentals |
 | [IRC](https://github.com/fsantos23/ft_irc) | C++ | ✅ | IRC server implementation |
 | [Inception](https://github.com/fsantos23/inception) | Docker | ✅ | Docker infrastructure |
-| [Transcendence](https://github.com/fsantos23/transcendence) | JavaScript/NodeJs | 🔄 | Real-time multiplayer Pong |
+| [Transcendence](https://github.com/andrexandre/ft_transcendence) | JavaScript/NodeJs; SQL | ✅ | Real-time multiplayer Pong |
 
 ### 💻 Language Distribution
 - C: 9 projects
