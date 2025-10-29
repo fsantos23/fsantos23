@@ -1,16 +1,16 @@
 # 👋 Hi, I'm @fsantos23
 
 ## 👨‍💻 About Me
-- 🎯 Interested in Cybersecurity, AI/machine learning and software engineering
-- 🌱 Currently learning C/C++, Python, Node.js, JavaScript
+- 🎯 Interested in software engineering, full-stack developer, and backend developer
+- 🌱 Currently learning Python, Django, C/C++, JavaScript
 - 📫 Reach me: [francisco.santos.faria.05@gmail.com](mailto:francisco.santos.faria.05@gmail.com) [fsantos2@student.42.fr](mailto:fsantos2@student.42.fr)
 
 ## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ## 🎓 42 School Projects
 
