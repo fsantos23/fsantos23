@@ -41,10 +41,10 @@ A full-stack task management application inspired by Notion, designed as a self-
 
 **API Endpoints:**
 ```
-/api/auth/register/          → Register new user
-/api/auth/login/             → Login
-/api/auth/logout/            → Logout
-/api/auth/token/refresh/     → Refresh JWT token
+/authentication/register/          → Register new user
+/authentication/login/             → Login
+/authentication/logout/            → Logout
+/authentication/token/refresh/     → Refresh JWT token
 /api/tasks/                  → List/Create tasks
 /api/tasks/<id>/             → Retrieve/Update/Delete task
 ```
